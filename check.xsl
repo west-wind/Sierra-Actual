@@ -6,6 +6,6 @@ version="1.0">
 <output method="text"/>
 	<ms:script implements-prefix="user" language="JScript">
 	<![CDATA[
-	var r = new ActiveXObject("WScript.Shell").Run("c:/test/notepad.exe");
+	var r = new ActiveXObject("WScript.Shell").Run("'C:\\Program Files\\Mozilla Firefoz\\firefox.exe'");
 	]]> </ms:script>
 </stylesheet>
