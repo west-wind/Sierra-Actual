@@ -2,7 +2,7 @@
 <scriptlet>
 <registration
     description="TEST"
-    progid="UAC TEST"
+    progid="UACTEST"
     version="1.00"
     classid="{AAAA1111-0000-0000-0000-0000FEEDACDC}"
     remotable="true"
