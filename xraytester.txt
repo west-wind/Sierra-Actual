@@ -1,6 +1,5 @@
 <?XML version="1.0"?>
 <scriptlet>
-
 <registration
     description="TEST"
     progid="UAC TEST"
@@ -9,14 +8,9 @@
     remotable="true"
 	>
 </registration>
-
 <script language="JScript">
 <![CDATA[
-
-		var r = new ActiveXObject("WScript.Shell").Run("calc.exe");
-	
-	
+		var r = new ActiveXObject("WScript.Shell").Run("paint.exe");	
 ]]>
 </script>
-
 </scriptlet>
